@@ -1,0 +1,27 @@
+{
+  "name": "js-run-php",
+  "version": "1.0.0",
+  "description": "utiliser javascript pour lire du code php",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexis90210/js-run-php.git"
+  },
+  "keywords": [
+    "js",
+    "php",
+    "nodejs"
+  ],
+  "author": "alexis ngoyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexis90210/js-run-php/issues"
+  },
+  "homepage": "https://github.com/alexis90210/js-run-php#readme",
+  "dependencies": {
+    "exec-php": "^0.0.6"
+  }
+}
